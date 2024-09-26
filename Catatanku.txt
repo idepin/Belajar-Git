@@ -1,1 +1,2 @@
 Hari ini aku sedang belajar git
+Ternyata git itu mudah ya, untuk pertama
